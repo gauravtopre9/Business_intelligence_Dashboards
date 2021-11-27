@@ -18,13 +18,13 @@ Now I am going a step ahead in this project with following AIMS Grid.
 **1. Purpose :**
 To unlock the hidden insights of free unpaid internship program by an edutech startup and so help them for focusing in weak areas.
 
-**2. Stakeholders Involved :
+**2. Stakeholders Involved :**
 (a) Program Managers (b) Domain Leads (c) Marketing Manager
 
-**3. End Result :
+**3. End Result :**
 An automated dashboar providing quick and latest insights in order to support data driven decision making.
 
-**4. Success Criteria :
+**4. Success Criteria :**
 Dashboard Covering List of Blacklisted Candidates (Candidates who had applied multiple times).
 Insights of Marketting methods in future based on past.
 Insights on bringing change in data collection techniques.
