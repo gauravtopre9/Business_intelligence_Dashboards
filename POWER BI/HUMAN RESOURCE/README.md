@@ -1,6 +1,6 @@
 # Human Resource Dashboard | Power BI
 
-**We were given with the data of 303 Emloyees Working in a Software Company and as a Data Aalyst I was supposed to analyze the data thoroughly and give to give answers to few important questions.**
+**I downloaded the data from [Kaggle](www.kaggle.com) the data  which is of 303 Emloyees Working in a Software Company and as a Data Aalyst I am supposed to analyze this data thoroughly and give to give answers to few important questions.**
 
 **Dataset:**  [Click Here to Download Dataset](https://drive.google.com/file/d/1poezdeKMIj8sG8Hoa1Hh1dOqd2gOzI44/view?usp=sharing)
 
@@ -43,6 +43,7 @@ After deleting unwanted entries:
 
 On the basis of this available data I was asked following questions by Stake Holders 
 
+### Questions
 1. How many Employees Worked with Company ?
 2. Number of Active and Terminated Employees. 
 3. Categorizing Employees on the basis of their Performance score.
@@ -67,5 +68,6 @@ On the basis of this available data I was asked following questions by Stake Hol
 
 **I Have answered majority of above question using the SQL Script where as I have also developed a Interactive Dashboard Using Power BI for this Data**
 
-## [VIEW DASHBOARD](https://app.powerbi.com/groups/me/reports/54dc46df-259c-4389-b6c4-058c495dee35?ctid=fb3e7d55-5cbd-4065-8dad-76538ca1f255&pbi_source=linkShare)
+## Dashboard | Power BI
+### [VIEW DASHBOARD](https://app.powerbi.com/groups/me/reports/54dc46df-259c-4389-b6c4-058c495dee35?ctid=fb3e7d55-5cbd-4065-8dad-76538ca1f255&pbi_source=linkShare)
 
