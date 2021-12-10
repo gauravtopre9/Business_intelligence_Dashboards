@@ -67,3 +67,5 @@ On the basis of this available data I was asked following questions by Stake Hol
 
 **I Have answered majority of above question using the SQL Script where as I have also developed a Interactive Dashboard Using Power BI for this Data**
 
+## [VIEW DASHBOARD](https://app.powerbi.com/groups/me/reports/54dc46df-259c-4389-b6c4-058c495dee35?ctid=fb3e7d55-5cbd-4065-8dad-76538ca1f255&pbi_source=linkShare)
+
