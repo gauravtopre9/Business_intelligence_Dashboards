@@ -71,10 +71,10 @@ On the basis of this available data I was asked following questions by Stake Hol
 ## Dashboard | Power BI
 
 ### 1. Desktop View
-<img src="https://github.com/gauravtopre9/Business-Intelligence-Projectss/blob/main/POWER%20BI/HUMAN%20RESOURCE/Dashboard%20Screenshots.PNG">
+<img src="https://github.com/gauravtopre9/Business-Intelligence-Projectss/blob/main/POWER%20BI/HUMAN%20RESOURCE/Dashboard%20Screenshots.PNG" width="1200" height="600">
 
 ### 2. Mobile View
-<img src = 'https://github.com/gauravtopre9/Business-Intelligence-Projectss/blob/main/POWER%20BI/HUMAN%20RESOURCE/Mobile%20View%201%20(1).jpg'>
+<img src = 'https://github.com/gauravtopre9/Business-Intelligence-Projectss/blob/main/POWER%20BI/HUMAN%20RESOURCE/Mobile%20View%201%20(1).jpg' width="500" height="750">
 
 ### [VIEW DASHBOARD](https://app.powerbi.com/groups/me/reports/54dc46df-259c-4389-b6c4-058c495dee35?ctid=fb3e7d55-5cbd-4065-8dad-76538ca1f255&pbi_source=linkShare)
 
