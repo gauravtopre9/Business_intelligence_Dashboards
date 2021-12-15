@@ -21,3 +21,9 @@ This dataset was clean so there was no need of cleaning the Data before dashboar
 9. Shipping price for sub- categories?
 10. No. of Orders / Region ?
 
+### View Dashboard : [Click Here](https://public.tableau.com/app/profile/gaurav.topre/viz/GlobalSuperstore-Dashboard_16345717179030/Dashboard1)
+
+### Snap of Dashboard Built in Tableau
+![](https://github.com/gauravtopre9/Business-Intelligence-Projectss/blob/main/TABLEAU/Global%20Superstores/Global%201.PNG?raw=true)
+
+## Thank You for Visiting !
